@@ -1,0 +1,14 @@
+C:\Users\drewr\Documents\Workspace\leetcode\obj\Debug\net7.0\leetcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drewr\Documents\Workspace\leetcode\obj\Debug\net7.0\leetcode.AssemblyInfoInputs.cache
+C:\Users\drewr\Documents\Workspace\leetcode\obj\Debug\net7.0\leetcode.AssemblyInfo.cs
+C:\Users\drewr\Documents\Workspace\leetcode\obj\Debug\net7.0\leetcode.csproj.CoreCompileInputs.cache
+C:\Users\drewr\Documents\Workspace\leetcode\bin\Debug\net7.0\leetcode.exe
+C:\Users\drewr\Documents\Workspace\leetcode\bin\Debug\net7.0\leetcode.deps.json
+C:\Users\drewr\Documents\Workspace\leetcode\bin\Debug\net7.0\leetcode.runtimeconfig.json
+C:\Users\drewr\Documents\Workspace\leetcode\bin\Debug\net7.0\leetcode.dll
+C:\Users\drewr\Documents\Workspace\leetcode\bin\Debug\net7.0\leetcode.pdb
+C:\Users\drewr\Documents\Workspace\leetcode\obj\Debug\net7.0\leetcode.dll
+C:\Users\drewr\Documents\Workspace\leetcode\obj\Debug\net7.0\refint\leetcode.dll
+C:\Users\drewr\Documents\Workspace\leetcode\obj\Debug\net7.0\leetcode.pdb
+C:\Users\drewr\Documents\Workspace\leetcode\obj\Debug\net7.0\leetcode.genruntimeconfig.cache
+C:\Users\drewr\Documents\Workspace\leetcode\obj\Debug\net7.0\ref\leetcode.dll
