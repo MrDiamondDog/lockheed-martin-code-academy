@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 public class WordByWord
 {
-    const string Punctuation = ".,;:!?'\"`~";
+    const string Punctuation = "`~!@#$%^&*()-=_+[]{}\\|;':\",./<>?";
 
     static void Main(string[] args)
     {
@@ -24,7 +24,6 @@ public class WordByWord
             {
                 data = data.Replace(c.ToString(), "");
             }
-
 
             string[] words = data.Split(" ");
 
@@ -91,8 +90,6 @@ public class WordByWord
             modes.Sort();
 
 
-            Console.WriteLine(string.Join(", ", individualLenghts.ToArray()));
-
             // MEDIAN
             float median;
 
@@ -105,12 +102,14 @@ public class WordByWord
                 median = individualLenghts[(individualLenghts.Count - 1) / 2];
             }
 
+            // Console.WriteLine(string.Join(", ", individualLenghts));
+
             Console.WriteLine("Average: " + Format(average));
             Console.WriteLine("Median: " + Format(median));
-            Console.WriteLine("Modes: " + modes[0] + (modes.Count > 1 ? "," + modes[1] : ""));
+            Console.WriteLine("Modes: " + string.Join(",", modes));
             Console.WriteLine("Range: " + (maxKey - minKey));
 
-            for (int row = 1; row < maxKey + 1; row++)
+            for (int row = minKey; row < maxKey + 1; row++)
             {
                 wordCounts.TryGetValue(row, out int val);
                 Console.WriteLine((row < 10 ? " " : "") + row + "|" + Repeat('x', val));
