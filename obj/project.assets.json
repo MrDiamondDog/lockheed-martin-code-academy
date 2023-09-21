@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\drewr\\Documents\\Workspace\\leetcode\\leetcode.csproj",
+      "projectUniqueName": "c:\\Users\\drewr\\OneDrive\\Documents\\Workspace\\lockheed-martin-code-academy\\leetcode.csproj",
       "projectName": "leetcode",
-      "projectPath": "C:\\Users\\drewr\\Documents\\Workspace\\leetcode\\leetcode.csproj",
+      "projectPath": "c:\\Users\\drewr\\OneDrive\\Documents\\Workspace\\lockheed-martin-code-academy\\leetcode.csproj",
       "packagesPath": "C:\\Users\\drewr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\drewr\\Documents\\Workspace\\leetcode\\obj\\",
+      "outputPath": "c:\\Users\\drewr\\OneDrive\\Documents\\Workspace\\lockheed-martin-code-academy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\drewr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
